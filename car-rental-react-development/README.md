@@ -1,6 +1,6 @@
 # CAR RENTALS APP
 
-In this project, I developed a frontend web application, Car Rentals using [Car Rentals API](https://car-rental-rails.herokuapp.com/) - [Repo](https://github.com/tGodson/car-rental-rails) I also develop, a requirement for my final capstone project to consume the data using React Application.
+In this project, I developed a frontend web application, Car Rentals using - [Repo](https://github.com/Moeez37/MERN/tree/main/car-rental-react-development) I also develop, a requirement for my final capstone project to consume the data using React Application.
 
 The application features includes:
 - A proper Authentication for Sign in and Sign up
@@ -10,10 +10,6 @@ The application features includes:
 - User can access list of cars added as favourites
 
 ![screenshot](app_screenshot.png)
-
-## Live Demo
-[Live Demo](https://car-rentals-react.herokuapp.com/)
-
 
 ## Getting Started
 
@@ -62,18 +58,15 @@ Fire up your app by running `heroku open` Yay!!! your app has been deployed succ
 
 # Author
 
-👤 **Tendongze Godson**
+👤 **Moeez hayder**
 
-- Email: [Email](tendongzegodson@gmail.com)
-- Github: [tGodson](https://github.com/tGodson)
-- Twitter: [@tendongze95](https://twitter.com/tendongze95)
-- Linkedin: [tendongzegodson](https://www.linkedin.com/in/tendongzegodson)
+- Email: [Email](haydermoeez@gmail.com)
+- Github: [Moeez](https://github.com/Moeez37)
+- Linkedin: [Moeez](https://www.linkedin.com/in/moeez-hayder-955210202/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/tGodson/car-rental-react/issues).
 
 ## Show your support
 
@@ -81,4 +74,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 - [Microverse Inc](https://www.microverse.org/)
-- [Design Inspiration](https://www.behance.net/gallery/37706679/Circle-(Landing-page-Dashboard-Mobile-App)), Design Idea by [Alexey Savitskiy on Behance](https://www.behance.net/alexey_savitskiy)
+- [Design Inspiration](https://www.behance.net/gallery/37706679/Circle-(Landing-page-Dashboard-Mobile-App)), Design Idea by [Moeez Hayder]
