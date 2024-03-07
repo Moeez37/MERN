@@ -22,7 +22,6 @@ Make sure Node.js is running on your local machine
 ### Setup
 
 ~~~bash
-$ git clone https://github.com/tGodson/car-rental-react.git
 $ cd rcar-rental-react
 ~~~
 
